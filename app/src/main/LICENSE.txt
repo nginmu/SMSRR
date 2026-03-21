@@ -1,0 +1,54 @@
+                     GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The GNU General Public License is a free, copyleft license for software and other kinds of works.
+
+When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software and use pieces of it in new free programs, and that you are informed that you can do these things.
+
+To protect your rights, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. These restrictions translate to certain responsibilities for you if you distribute copies of the software, or if you modify it.
+
+For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.
+
+We protect your rights with two steps: (1) copyright the software, and (2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+
+For the developers' and authors' sake, the GPL ensures that everyone else is also bound by these terms.
+
+                            TERMS AND CONDITIONS
+
+0. Definitions.
+
+This License refers to version 3 of the GNU General Public License. "The Program" refers to any copyrightable work licensed under this License. "You" refers to the licensee of the Program. "Source code" for a work means the preferred form of the work for making modifications to it. "Object code" means any non-source form of a work. "Distribution" means conveying a work to others. "Conveying" means any form of propagation that enables other parties to make or receive copies. "Contributor" means the individual or legal entity that creates or contributes to the creation of a work.
+
+1.  You may copy and distribute verbatim copies of the Program's  source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate  copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any  warranty; and give any other recipients of the Program a copy of this License along with the Program.
+
+2.  You may modify your copy or copies of the Program or any portion  of it, thus forming a work based on the Program, and copy and distribute such modifications or work under the terms of Section 1  above, provided that you also meet all of these conditions: a) You must cause the modified files to carry prominent notices stating that you changed the files and the date of any change. b) You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties under the terms of this License.
+
+3.  You may not copy, modify, sublicense, or distribute the Program except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense, or distribute the Program is void, and will automatically terminate your rights under this License.
+
+4.  Each time you redistribute the Program (or any work based on the Program), the recipient automatically receives a license from the original licensor to copy, distribute, or modify the Program subject to these terms and conditions. You may not impose any further restrictions on the recipients' exercise of the rights granted herein.
+
+5.  The use of the Program is at your own risk. There is no warranty for the Program, and the author is not liable for any damages arising from its use.
+
+6.  If you wish to incorporate parts of the Program into other free programs whose distribution conditions are different, write to the author to ask for permission.
+
+7.  This License shall be interpreted in accordance with the laws of the jurisdiction in which the Program is distributed.
+
+ 8. If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Program at all.
+
+9.  The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+10.  Each version is given a distinguishing version number. If the Program specifies a version number of this License which applies to it and "any later version," you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of this License, you may choose any version ever published by the Free Software Foundation.
+
+11.  If you wish to incorporate parts of the Program into other free programs whose distribution conditions are different, write to the author to ask for permission.
+
+12.  NO WARRANTY
+
+     12.1. THE PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+13.  Copyright (C) 2024 N Font
+
+14.  END OF TERMS AND CONDITIONS
