@@ -2,4 +2,4 @@ Simple, advertising-free Android phone app (Tiramisu & up) for remote control. I
 
 <img width="640" height="320" alt="" src="https://github.com/user-attachments/assets/03f0dd58-c1ae-4c62-8a0e-e0eec935ef45" />
 
-<img width="640" height="320" alt="" src="https://github.com/user-attachments/assets/34211a14-791c-4688-9268-7fdbc7bc0d0e" />
+<img width="500" height="320" alt="" src="https://github.com/user-attachments/assets/34211a14-791c-4688-9268-7fdbc7bc0d0e" />
